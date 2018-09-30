@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{11D6861A-7D4D-4479-8B6C-311EBA2022F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldLibrary", "..\..\..\Task3\HelloWorldLibrary\HelloWorldLibrary\HelloWorldLibrary.csproj", "{0420A5E1-44E2-4776-8871-7B8E15AC0124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D6861A-7D4D-4479-8B6C-311EBA2022F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D6861A-7D4D-4479-8B6C-311EBA2022F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D6861A-7D4D-4479-8B6C-311EBA2022F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D6861A-7D4D-4479-8B6C-311EBA2022F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0420A5E1-44E2-4776-8871-7B8E15AC0124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0420A5E1-44E2-4776-8871-7B8E15AC0124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0420A5E1-44E2-4776-8871-7B8E15AC0124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0420A5E1-44E2-4776-8871-7B8E15AC0124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EE696A-E26C-4D04-B6E8-0A051097E9D2}
+	EndGlobalSection
+EndGlobal
