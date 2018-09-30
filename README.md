@@ -1,4 +1,4 @@
-# .NetMentoring.Task1.IntroductionToNet
+.NetMentoring.IntroductionToNet
 
 Задание 1. Многообразие .Net
 
